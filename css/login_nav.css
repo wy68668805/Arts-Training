@@ -1,0 +1,33 @@
+.login_nav{
+	width: 81px;
+}
+
+.login_nav ul{
+	padding: 2px 0 0 1px;;
+}
+
+.login_nav ul li {
+	background: #ffffff;
+	margin: 0px 0 0px 0;
+	line-height: 40px;
+	text-align: center;
+
+}
+
+
+.nav_a{
+	display: block;
+	width: 81px;
+	height: 40px;
+	color: #2b94d6;
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	margin: 2px 0 0 0;
+}
+
+.current{
+	background: url(../img/register_login/login_nav.png);
+	color: #FFFFFF;
+	width: 112px;
+	margin-left: -5px;
+}

@@ -1,0 +1,66 @@
+body{
+	background: #fff;
+}
+
+#content{
+	background: #f1f1f1;
+}
+
+#login-bg{
+	float:left;
+	width: 81px;
+}
+.single-teaching-material{
+	width: 202px;
+	height: 161px;
+	position: relative;
+	float: left;
+	margin: 0 10px 12px 0;
+}
+
+.single-teaching-material p{
+	font-size: 10px;
+	margin: 2px 5px 20px 125px;
+	/*border: 1px solid red;*/
+}
+
+.teaching-material-img{
+	max-height: 161px;
+	max-width: 115px;
+	float: left;
+}
+
+.stm-title{
+	width: 87px;
+	height: 23px;
+	background: url(../img/training_materials/stm_bg.jpg) repeat-x;
+	margin-left: 115px;
+	text-align: center;
+	line-height: 23px;
+	color: #fff;
+}
+
+.author{
+	text-align: center;
+	font-size: 10px;
+	line-height: 14px;
+}
+
+.detial{
+	position: absolute;
+	background: #00b4bb;
+	width: 45px;
+	height: 15px;
+	left: 154px;
+	top: 142px;
+	text-align: center;
+	line-height: 15px;
+	
+}
+
+.detial a{
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+

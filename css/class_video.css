@@ -1,0 +1,160 @@
+body {
+	background: #fff;
+}
+
+#content {
+	background: #f1f1f1;
+}
+
+#login-bg {
+	float: left;
+	width: 81px;
+}
+
+#video_content{
+	
+	width:627px;
+	margin-left: 126px;
+	padding: 10px 0 0 0;
+}
+
+#show{
+	position: relative;
+	width: 421px;
+	height: 250px;
+}
+
+.show_img a img{
+	width: 421px;
+	height: 250px;
+}
+
+.text{
+	width: 421px;
+}
+
+.imgtext{
+	height: 55px;
+	width: 401px;
+}
+
+
+
+#show_list{
+	width: 206px;
+	height: 250px;
+	float: right;
+	background: #fff;
+}
+
+#vedio_list{
+	margin: 19px 0 0 23px;
+}
+
+
+#vedio_list li {
+	margin-bottom: 13px;
+}
+
+
+#vedio_list li a{
+	color: #000;
+}
+
+#vedio_list li a:hover{
+	color: #2b94d6;
+}
+
+.video_list{
+	margin-top: 16px;
+	/*margin-left: -21px;*/
+	/*border: 1px solid red;*/
+}
+
+.single_list{
+	float: left;
+	/*border: 1px solid red;*/
+	/*margin-left: 21px;*/
+	
+}
+
+.single_margin{
+	margin-right: 21px;
+}
+
+.video_img{
+	width: 194px;
+	height: 144px;
+	position: relative;
+}
+
+.video_img img{
+	width: 194px;
+	height: 144px;
+}
+
+.video_title{
+	height: 24px;
+	background: #fff;
+	line-height: 24px;
+	width: 194px;
+}
+
+.video_title p{
+	margin: 0 9px;
+}
+
+.cat{
+	float: right;
+	margin-right:9px;
+}
+
+.author_cat{
+	color:#9a9a9a;
+	width:194px;
+	border-top: 1px solid #e5e5e5;
+	height: 24px;
+	background: #fff;
+	line-height: 24px;
+}
+.teacher_pic{
+	margin:0 9px;
+	width: 20px;
+	height: 20px;
+	line-height:24px;
+	vertical-align: middle;
+}
+.list-bottom{
+	vertical-align: middle;
+	margin: 0 7px 0 0;
+}
+
+.play_img{
+	width:174px;
+	text-align: center;
+}
+
+
+.video_img .text{
+	
+	width: 194px;
+}
+
+
+.video_img .text .imgtext{
+	height: 124px;
+	width: 184px;
+}
+.video_img .text .imgtext img{
+	margin-top:10px;
+	width:54px;
+	height: 54px;
+}
+
+.desc{
+	margin-top: 5px;
+}
+
+.page{
+	margin-top: 47px;
+}

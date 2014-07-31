@@ -1,0 +1,91 @@
+body{
+	background: #fff;
+}
+
+#content{
+	background: #f1f1f1;
+}
+
+#login-bg{
+	float:left;
+	width: 81px;
+}
+
+#teacher-form{
+	height: 420px;
+	padding-top: 17px;
+}
+
+#teacher-title{
+	background: url('../img/register_login/login_tag.jpg') no-repeat;
+	width: 507px;
+	height: 54px;
+	margin-left: 173px;
+}
+
+
+#teacher-login{
+	margin-left: 260px;
+}
+
+.teacher_input{
+	border: 1px solid #bab9b9;
+	border-radius:3px;
+	height: 28px;
+	width: 258px;
+	margin: 0 5px 16px 0;
+	color: #adadad;
+	padding-left: 15px;
+	line-height:28px;
+}
+
+#teacher-login input[type=checkbox]{
+	margin-left: 2px;
+	margin-right: 10px;
+	vertical-align: middle;
+	/*border: 1px solid #2b94d6;*/
+}
+
+#teacher-login img{
+	vertical-align: middle;
+	margin-top: -3px;
+}
+
+#auth_code{
+	width: 146px;
+	border: 1px solid #bab9b9;
+	border-radius:3px;
+	height: 28px;
+	margin: 10px 10px 10px 0;
+	color: #adadad;
+	padding-left: 15px;
+	line-height:28px;
+}
+
+#forget-pass{
+	color:#2b94d6;
+	margin-left:100px;
+}
+
+
+#not_clear{
+	margin:0 0 0 130px;
+	color: #2b94d6;
+}
+
+
+#login-submit{
+	width: 101px;
+	height: 40px;
+	background: #00b4bb;
+	border-radius: 3px;
+	margin-left: 175px;	
+	margin-top: 20px;
+	color: #fff;
+	cursor: pointer;
+}
+
+.error{
+	color: red;
+	font-size: 16px;
+}

@@ -1,0 +1,98 @@
+body {
+	background: #e9e9e9;
+}
+
+#content {
+	background: #f1f1f1;
+	padding: 0 0 0 0;
+}
+
+#login-bg {
+	float: left;
+	width: 81px;
+}
+
+.xiangguanxinxi{
+	padding-top:10px;
+	margin-left: 120px;
+	/*border: 1px solid red;*/
+}
+
+.top_bg{
+	background: #FFFFFF;
+}
+
+.single-intro{
+	/*border: 1px solid red;*/
+	width: 645px;
+	margin-bottom: 15px;
+	/*border: 1px solid red;*/
+}
+
+.single-content{
+	margin-left: 100px;
+	position: relative;
+	
+}
+
+.single-content p{
+	margin-top: 5px;
+	font-size: 12px;
+	line-height: 19px;
+}
+
+.date{
+	font-size: 12px;
+	position: absolute;
+	top: 64px;
+	left: 470px;
+}
+
+.single-content h2 img{
+	margin-right: 10px;
+}
+
+.single-content h2 a{
+	color: #000000;
+}
+
+.introimg{
+	margin-left:10px;
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+
+.introimg img{
+	width: 80px;
+	height: 80px;
+}
+
+
+.xiangguanul{
+	padding: 5px 0;
+	background: #fff;
+	margin: 10px 0;
+}
+.xiangguanul li{
+	line-height: 24px;
+}
+
+.xiangguanul li span{
+	float: right;
+	font-size: 12px;
+	margin-right: 10px;
+}
+
+.xiangguanul li img{
+	margin-left: 10px;
+	margin-right: 5px;
+}
+
+.xiangguanul li a{
+	color: #000000;
+	
+	font-size: 14px;
+}
+
+

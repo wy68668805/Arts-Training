@@ -1,0 +1,28 @@
+#training_nav{
+	padding-top:20px;
+	margin-left: 120px;
+	background: url(../img/training_materials/line_bg.jpg) no-repeat;
+
+}
+
+#training_content{
+	margin-left: 120px;
+}
+
+.t_nav{
+	display:  inline-block;
+	height: 50px;
+	width: 89px;
+	/*background: url(../img/training_materials/training_bg.jpg);*/
+	text-align: center;
+	color: #000000;
+}
+
+.t_current{
+	display:  inline-block;
+	height: 50px;
+	width: 89px;
+	background: url(../img/training_materials/training_bg2.jpg);
+	text-align: center;
+	color: #2b94d6;
+}

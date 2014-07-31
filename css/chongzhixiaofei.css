@@ -1,0 +1,119 @@
+.chongzhixiaofei {
+	padding-top: 29px;
+	background: #f1f1f1;
+}
+
+.search_bg {
+	background: url(../img/chongzhixiaofei/xuexijiaocai.jpg) no-repeat;
+	height: 34px;
+	width: 728px;
+	margin: 0px auto 0 auto;
+}
+
+.search_bg form {
+	float: right;
+	line-height: 34px;
+}
+
+.search_bg form input[type=text] {
+	font-size: 12px;
+	width: 139px;
+	height: 23px;
+	border: 1px solid #dad9da;
+	border-top: 1px solid #adabac;
+	padding-left: 10px;
+	margin-right: -5px;
+}
+
+.search_bg form input[type=submit] {
+	cursor: pointer;
+	width: 61px;
+	height: 25px;
+	background: #2b94d6;
+	color: #fff;
+}
+
+.nav_a {
+	height: 45px;
+	border-bottom: 1px solid #2b94d6;
+	line-height: 45px;
+	padding-left: 25px;
+}
+
+.choice {
+	/*border: 1px solid red;*/
+	display: inline-block;
+	width: 41px;
+	text-align: center;
+	font-size: 18px;
+	height: 45px;
+	cursor: pointer;
+	color: #5b5c5c;
+	margin: 0 20px;
+}
+
+.current {
+	background: url(../img/chongzhixiaofei/nav_bg.jpg) no-repeat;
+	color: #2b94d6;
+}
+
+.choice:hover {
+	background: url(../img/chongzhixiaofei/nav_bg.jpg) no-repeat;
+	color: #2b94d6;
+}
+
+.products {
+	margin-top: 7px;
+	padding-left: 3px;
+}
+
+.product {
+	background:#fff;
+	width: 170px;
+	float: left;
+	margin: 0 10px 30px 10px;
+	padding-bottom:10px;
+}
+
+.product_img {
+	width: 170px;
+	height: 170px;
+}
+
+.product_img img {
+	width: 170px;
+	height: 170px;
+}
+
+.product_link {
+	margin: 0 5px;
+	margin-top: 5px;
+	/*text-align: center;*/
+}
+
+.product_link a {
+	color: #5b5c5c;
+}
+
+.product_link a:hover {
+	color: #2b94d6;
+}
+
+.product_author {
+	margin: 3px 5px 0 5px;
+}
+.product_author span {
+	float: right;
+	color: #2b94d6;
+}
+
+.page {
+	margin-top: 40px;
+}
+
+.p2 {
+	display: none;
+}
+.p3 {
+	display: none;
+}

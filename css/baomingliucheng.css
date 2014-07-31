@@ -1,0 +1,134 @@
+body {
+	background: #fff;
+}
+
+#content {
+	background: #f1f1f1;
+	padding: 0 0 0 0;
+}
+
+#login-bg {
+	float: left;
+	width: 81px;
+}
+
+.step{
+	padding-top: 22px;
+	margin-left: 153px;
+	width: 542px;
+	
+	
+}
+
+.step1{
+	background: url(../img/baoming/step1_bg.jpg) no-repeat;
+}
+
+.step1 p{
+	width:457px;
+	padding: 40px 0 0 40px;
+	text-indent: 2em;
+	line-height: 24px;
+	
+}
+
+.step1 div{
+	text-align: right;
+}
+
+.step1 div a{
+	display: inline-block;
+	height: 30px;
+	width: 114px;
+	background: #ed1556;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+}
+
+/*sdasd*/
+
+.step2{
+	margin-top:10px;
+	background: url(../img/baoming/step2_bg.jpg) no-repeat;
+}
+
+.step2 p{
+	width:457px;
+	padding: 40px 0 0 40px;
+	text-indent: 2em;
+	line-height: 24px;
+	
+}
+
+.step2 div{
+	text-align: right;
+}
+
+.step2 div a{
+	display: inline-block;
+	height: 30px;
+	width: 114px;
+	background: #ed1556;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+}
+
+
+/*sdasd*/
+
+.step3{
+	margin-top:10px;
+	background: url(../img/baoming/step3_bg.jpg) no-repeat;
+}
+
+.step3 p{
+	width:457px;
+	padding: 40px 0 0 40px;
+	text-indent: 2em;
+	line-height: 24px;
+	
+}
+
+.step3 div{
+	text-align: right;
+}
+
+.step3 div a{
+	display: inline-block;
+	height: 30px;
+	width: 114px;
+	background: #ed1556;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+}
+
+
+.step4{
+	margin-top:10px;
+	background: url(../img/baoming/step4_bg.jpg) no-repeat;
+}
+
+.step4 p{
+	width:457px;
+	padding: 40px 0 0 40px;
+	text-indent: 2em;
+	line-height: 24px;
+	
+}
+
+.step4 div{
+	text-align: right;
+}
+
+.step4 div a{
+	display: inline-block;
+	height: 30px;
+	width: 114px;
+	background: #ed1556;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+}

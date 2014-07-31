@@ -1,0 +1,216 @@
+body {
+	background: #fff;
+}
+
+#content {
+	background: #f1f1f1;
+	padding: 0 0 0 0;
+}
+
+#login-bg {
+	float: left;
+	width: 81px;
+}
+
+.tianxiebaoming{
+	margin-left: 120px;
+	padding-top: 40px; 
+}
+
+.tianxiebaoming h1{
+	width: 600px;
+	text-align: center;
+	color: #76898f;
+}
+
+.tableform{
+	background: url(../img/professional/table_bg.jpg) no-repeat;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+
+.first_p{
+	padding: 17px 0 0 0px;
+	/*border: 1px solid red;*/
+	
+}
+.tableform p{
+	margin: 0 0 0 60px;
+	width: 488px;
+}
+
+.detial_intro{
+	display:inline-block;
+	float: right;
+	margin-right: 75px;
+	color: #a04a57;
+}
+
+.tianxiebaoming form{
+	margin-left: 75px;
+	margin-right: 70px;
+	margin-top: 50px;
+}
+
+form{
+	position: relative;
+}
+
+.talbe_title{
+	width: 100px;
+}
+
+table{
+	color: #3f6862;
+	margin-bottom: 20px;
+}
+
+table tr{
+	line-height: 40px;
+}
+
+table tr td{
+	font-size: 16px;
+}
+
+table tr td input[type=text]{
+	border: 1px solid #809b8a;
+	border-radius: 3px;
+	background: #f1f1f1;
+	height: 27px;
+}
+
+table tr td textarea{
+	border: 1px solid #809b8a;
+	border-radius: 3px;
+	background: #f1f1f1;
+	width: 377px;
+	height: 88px;
+}
+
+.short_input{
+	width: 158px;
+}
+
+.long_input{
+	width: 239px;
+}
+
+.spec{
+	vertical-align: top;
+}
+
+.topinsde{
+	position: relative;
+}
+
+.long_text_radio{
+	position: absolute;
+	top: 15px;
+	/*float: left;*/
+	/*vertical-align: middle;*/
+}
+.long_text{
+	margin-top:10px;
+	display:block;
+	line-height: 24px;
+	float: right;
+	width: 355px;
+	height: 45px;
+}
+
+.inside{
+	height: 160px;
+	/*border: 1px solid red;*/
+	position: relative;
+}
+
+.meishu{
+	position: absolute;
+}
+.yishu{
+	position: absolute;
+	left: 200px;
+	/*border: 1px solid red;*/
+	width: 100px;
+}
+
+.guohua{
+	position: absolute;
+	top: 40px;
+	
+}
+
+.guangbo{
+	position: absolute;
+	top: 40px;
+	left: 200px;
+	width: 120px;
+}
+
+.yingshi{
+	position: absolute;
+	top: 80px;
+}
+.sheying{
+	position: absolute;
+	top: 80px;
+	left: 200px;
+	width: 100px;
+}
+
+.boyin{
+	position: absolute;
+	top: 120px;
+}
+.zuoqu{
+	position: absolute;
+	top: 120px;
+	left: 200px;
+	width: 200px;
+}
+
+table tr td input[type=submit]{
+	background: #ed1556;
+	height: 30px;
+	width: 80px;
+	line-height: 30px;
+	text-align: center;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.submit_td{
+	text-align: center;
+}
+
+.photo{
+	position: absolute;
+	left: 375px;
+}
+
+.photo_img {
+	width: 100px;
+	height: 120px;
+}
+
+.photo_img a img{
+	width: 100px;
+	height: 120px;
+}
+
+.upload_buttom{
+
+	margin-top:8px;
+	text-align: center;
+	height:20px;
+	line-height: 20px;
+}
+
+.upload_buttom a{
+	display:inline-block;
+	width: 100px;
+	background: #809b8a;
+	color: #FFFFFF;
+}

@@ -1,0 +1,120 @@
+body{
+	background: #fff;
+}
+
+#content{
+	background: #f1f1f1;
+}
+
+#login-bg{
+	float:left;
+	width: 81px;
+}
+
+#signup_content{
+	margin-left: 120px;
+	/*text-align: center;*/
+}
+
+#signup_content h1{
+	/*width: 646px;*/
+	/*border: 1px solid red;*/
+	/*text-align: center;*/
+	color: #76898f;
+	margin-left: 250px;
+}
+
+#signup_process{
+	width: 554px;
+	margin: 15px 0 0 10px;
+	background: url(../img/professional/process_bg.jpg) no-repeat;
+	height: 667px;
+}
+
+#first_p{
+	padding-top: 50px;
+}
+
+.intro_p{
+	padding: 0px 0 0 60px;
+}
+
+.detial_intro{
+	color:#a04a57;
+	margin-left: 460px;
+}
+
+
+#reg{
+	margin: 23px 0 0 77px;
+}
+
+table{
+	color: #3f6862;
+}
+
+table tr{
+	
+}
+
+table tr td{
+	font-size: 16px;
+	line-height: 42px;
+}
+
+table tr td input[type=text]{
+	border: 1px solid #809b8a;
+	border-radius: 3px;
+	width: 159px;
+	height: 27px;
+	background: #f1f1f1;
+}
+
+
+table tr td textarea{
+	border: 1px solid #809b8a;
+	border-radius: 3px;
+	width: 260px;
+	height: 47px;
+	background: #f1f1f1;
+}
+
+table tr td input[type=submit]{
+	width: 71px;
+	height: 30px;
+	background: #ed1556;
+	cursor: pointer;
+	color: #fff;
+}
+.label{
+	width: 86px;
+}
+.submit{
+	text-align: right;
+}
+
+
+.photo{
+	margin-top:10px;
+	width: 100px;
+	height: 150px;
+	float: right;
+	text-align: center;
+}
+
+.photo_img{
+	height: 120px;
+}
+.photo img{
+	width: 100px;
+	height: 120px;
+}
+
+.upload_buttom{
+	display: inline-block;
+	height: 20px;
+	width: 100px;
+	margin-top: 8px;
+	background: #809b8a;
+	color: #fff;
+}

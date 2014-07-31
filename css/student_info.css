@@ -1,0 +1,133 @@
+body{
+	background: #fff;
+}
+#content{
+	background: #f1f1f1;
+}
+#login-bg{
+	float:left;
+	width: 81px;
+}
+#student-info{
+	background: #b5d6e9;
+}
+#student-info-head{
+	height: 80px;
+	background: #ffffff;
+	width:680px;
+	margin-left: 90px;
+}
+
+#logo{
+	float: left;
+	margin-left: 48px;
+	margin-top:28px;
+}
+
+#logo img{
+	border-radius: 50%;
+	width: 93px; 
+	height: 93px;
+}
+
+#name{
+	font-size: 18px;
+	font-weight:bolder;
+}
+
+#user_info{
+	padding: 45px 0 0 0;
+	margin-left: 184px;
+}
+
+
+#place-pic{
+	margin-left: 25px;
+	margin-right: 4px;
+}
+
+#info_tag{
+	float: right;
+	margin: 35px 42px 0 0;
+	color: #2b94d6;
+	font-family: "SimHei";
+	font-size: 24px;
+}
+
+#info_content{
+	padding: 0 0 60px 0;
+	*margin-left:80px;
+}
+
+#info_detial{
+	/*border: 1px solid red;*/
+	margin-left: 270px;
+	margin-top: 12px;
+}
+
+#info_detial ul{
+	*margin-left: -80px;
+}
+
+#info_detial ul li{
+	margin-bottom: 14px;
+}
+
+#info_detial ul li span{
+	color: #606266;
+}
+
+
+
+#info_pic{
+	background: url(../img/register_login/homework.jpg) no-repeat;
+	/*height: 100px;*/
+	margin: 27px 0 0 158px;
+	*margin: 27px 0 0 79px;
+	/*border: 1px solid red;*/
+}
+
+#upload{
+	float: right;
+	display: block;
+	margin-right: 68px;
+	margin-top: -2px;
+}
+
+#three_pic{
+	/*border: 1px solid red;*/
+	padding: 41px 0 0 115px;
+	*padding: 41px 0 0 60px;
+}
+
+#three_pic img{
+	margin-right: 15px;
+	*margin-right: 6px;
+}
+
+
+.tp-size{
+	width: 130px;
+	height: 140px;
+}
+
+#score{
+	background: url(../img/register_login/score.jpg) no-repeat;
+	margin: 27px 0 0 158px;
+	*margin: 27px 0 0 79px;
+	/*border: 1px solid red;*/
+}
+
+#score ul{
+	padding: 50px 0 0 100px
+}
+
+
+#score ul li{
+	line-height: 24px;
+}
+
+#score span{
+	display:block;
+	padding: 25px 0 0 100px;
+}

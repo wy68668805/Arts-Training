@@ -1,0 +1,44 @@
+body{
+	background: #fff;
+}
+
+#content{
+	background: #f1f1f1;
+}
+
+#login-bg{
+	float:left;
+	width: 81px;
+}
+
+.teachers{
+	margin-left: 120px;
+}
+
+
+.single-intro{
+	float:left;
+	width: 148px;
+	margin-right: 9px;
+	margin-top: 15px;
+}
+
+.photo-img{
+	width: 148px;
+	height: 140px;
+}
+
+.photo-img img{
+	width: 148px;
+	height: 140px;
+}
+
+.person-intro{
+	background: #fff;
+	
+}
+
+.person-intro h3{
+	font-weight: 100;
+	margin: 0 9px;
+}

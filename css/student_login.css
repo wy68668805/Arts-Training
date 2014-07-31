@@ -1,0 +1,125 @@
+body{
+	background: #fff;
+}
+#content{
+	background: #f1f1f1;
+}
+#login-bg{
+	float:left;
+	width: 81px;
+}
+
+#student-from{
+	height: 39px;
+	background: #b5d6e9;
+}
+
+#s-login label{
+	font-family: "Microsoft Yahei";
+	line-height: 39px;
+	font-size: 14px;
+	padding: 0 14px;
+	color: #3f6862;
+}
+
+#s-login input{
+	height: 25px;
+}
+
+
+#sl-submit{
+	height: 25px;
+	width: 49px;
+	font-size:14px;
+	font-weight: bold;
+	font-family: "Microsoft Yahei";
+	color: #fff;
+	background: #01b4b9;
+	margin: 0 0 0 10px;
+}
+
+#sl-a{
+	color: #031afa;
+	font-size:14px;
+	font-family: "Microsoft Yahei";
+	margin-left: 10px;
+}
+
+#s-register{
+	margin-left:150px;
+	margin-top:24px;
+	height:375px;
+	background: url(../img/register_login/sr_bg.jpg) no-repeat;
+	
+}
+
+#s-register h1{
+	font-size: 16px;
+	padding: 10px 0 0 150px;
+	color: #2b94d6;
+}
+
+#s-register table{
+	margin: 20px 0 0 75px;
+	color: #3f6862;
+	
+}
+
+#s-register table tr{
+	height: 40px;
+}
+
+#s-register table tr td{
+	font-size: 16px;
+}
+
+
+#s-register form input{
+	border: 1px solid #809b8a;
+	height: 27px;
+}
+
+#s-register form input[type=radio]{
+	vertical-align: middle;
+	margin: 0 3px 0 10px;
+	border: 0;
+}
+
+.td-label{
+	padding-right: 26px;
+}
+
+#sr-submit{
+	background: #ed1556;
+	color: #fff;
+	height: 30px;
+	width:71px;
+	cursor: pointer;
+}
+
+#td-submit{
+	text-align: right;
+}
+
+#sr-photo{
+	margin-right:100px;
+	height: 120px;
+	width: 100px;
+	float: right;
+}
+
+#upload-pic{
+	width: 100px;
+	height: 20px;
+	background: #2b94d6;
+	text-align:center;
+}
+
+#upload-pic a{
+	color: #fff;
+}
+
+#photo-size{
+	width: 100px;
+	height: 120px;
+}

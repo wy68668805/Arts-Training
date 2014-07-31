@@ -1,0 +1,110 @@
+body {
+	background: #fff;
+}
+
+#content {
+	background: #f1f1f1;
+}
+
+#login-bg {
+	float: left;
+	width: 81px;
+}
+
+#handout-content {
+	margin: 0 0 0 120px;
+	padding: 4px;
+}
+
+.top {
+	height: 34px;
+	width: 633px;
+	text-align: right;
+}
+
+.top a {
+	line-height: 34px;
+	margin-right: 36px;
+	color: #2b94d6;
+}
+
+
+#finearts {
+	background: url(../img/auditorium/finearts.jpg) no-repeat;
+}
+
+
+#music{
+	margin-top:26px;
+	background: url(../img/auditorium/music.jpg) no-repeat;
+}
+
+#guangbian{
+	margin-top:26px;
+	background: url(../img/auditorium/guangbian.jpg) no-repeat;
+}
+
+.handout_detail{
+	margin-top: 7px;
+}
+
+.single-detail{
+	float:left;
+	margin-right:10px;
+	width: 148px;
+	height: 184px;
+}
+.handout_img{
+	height: 140px;
+}
+
+.single-detail img{
+	width: 148px;
+	height: 140px;
+}
+
+
+.intro{
+	background: #fff;
+	width: 148px;
+	height: 44px;
+}
+
+
+.intro h3{
+	font-family: "Microsoft Yahei";
+	font-weight:100;
+	margin: 0 9px;
+}
+
+.intro h4{
+	font-weight:100;
+	margin: 0 9px;
+	text-align: right;
+}
+
+.finearts_name{
+	float: left;
+}
+
+
+.download{
+	display: inline-block;
+	height: 15px;
+	width: 45px;
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+	color: #fff;
+}
+.finearts_download{
+	background: #00b4bb;
+}
+
+.music_download{
+	background: #809b8a;
+}
+
+#add_height{
+	height: 26px;
+}

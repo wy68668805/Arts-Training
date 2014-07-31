@@ -1,0 +1,95 @@
+input {
+	border: 1px solid #dcdcdc;
+}
+
+
+#baidumap{
+	width:768px;
+	height:300px;
+	border:1px solid gray;
+}
+
+
+#contact_us{
+	background: #F1F1F1;
+}
+
+#contact_us_tag{
+	text-align: center;
+	padding-top: 29px;
+}
+
+#three_info{
+	text-align: center;
+	margin-left: 65px;
+}
+
+.single-info{
+	float: left;
+	margin-top:45px;
+	margin-bottom: 60px;
+	text-align: left;
+	color: #424242;
+}
+
+.single-info h2{
+	font-size:18px;
+	margin-left:75px;
+	font-family: "Microsoft Yahei";
+}
+
+.single-info img{
+	float: left;
+}
+
+
+.single-info p {
+	/*border: 1px solid red;	*/
+	margin-left: 72px;
+	margin-right:30px;
+	width:120px;
+}
+
+#online{
+	width:768px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#message{
+	width:488px;
+	float: left;
+}
+
+#message form{
+	
+}
+
+#message form textarea{
+	border: 1px solid #aaaaaa;
+	/*text-align:left;*/
+	/*width: 447px;*/
+	padding: 10px;
+	float:left;
+	margin-top: 30px;
+	margin-left:20px;
+	height:120px;
+	width:403px;
+	color: #2b94d6;
+	font-size: 15px;
+}
+
+#friend_link{
+	height: 250px;
+	padding: 30px 0 0 0;
+	/*border: 1px solid;*/
+	margin-left: 548px;
+	margin-right: 20px;
+	/*width: 200px;*/
+	text-align: left;
+}
+
+#friend_link a{
+	display: inline-block;
+	padding: 10px 20px 10px 0;
+}

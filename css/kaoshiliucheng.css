@@ -1,0 +1,119 @@
+body {
+	background: #e9e9e9;
+}
+
+#content {
+	background: #f1f1f1;
+	padding: 0 0 0 0;
+}
+
+#login-bg {
+	float: left;
+	width: 81px;
+}
+
+.kaoshiliucheng{
+	margin-left: 120px;
+	/*border: 1px solid red;*/
+	padding-top: 10px;
+}
+
+.kaoshititle{
+	height: 34px;
+	width: 633px;
+	text-align: right;
+}
+
+.kaoshititle a{
+	line-height: 34px;
+	margin-right: 35px;
+	color: #2b94d6;
+}
+
+.top_list{
+	margin-top:5px;
+	width:633px;
+	background: #FFFFFF;
+	/*border: 1px solid red;*/
+	height:90px;
+}
+
+.single_top{
+	float:left;
+	padding-top: 10px;
+	height: 70px;
+	/*border: 1px solid red;*/
+	width: 210px;
+}
+
+.single_topimg{
+	float:left;
+	margin: 0 0 0 10px;
+	width: 70px;
+	height: 70px;
+}
+
+.single_topimg img{
+	vertical-align:top;
+	width: 70px;
+	height: 70px;
+}
+
+.single-info{
+	/*border: 1px solid red;*/
+	margin-left: 85px;
+	height: 70px;
+	line-height: 24px;
+}
+
+.single-info img{
+	margin-right: 5px; 
+}
+
+.single-info span{
+	font-size: 12px;	
+}
+
+.bottom-list{
+	/*border: 1px solid red;*/
+	background:#FFFFFF;
+	padding-left: 10px;
+	width: 623px;
+	padding-top: 10px;
+}
+
+.bottom-list ul {
+	margin-bottom: 20px;
+}
+
+.bottom-list ul li{
+	line-height: 24px;
+}
+
+.bottom-list ul li a{
+	color: #000000;
+}
+
+.bottom-list ul li img{
+	margin-right: 5px;
+}
+
+.bottom-list ul li span{
+	float: right;
+	font-size: 12px;
+	margin-right: 10px;
+}
+
+
+
+.title1{
+	background: url(../img/professional/zhiyuantianbao.jpg);
+}
+
+.title2{
+	background: url(../img/professional/yingkaogonglue.jpg);
+}
+
+.title3{
+	background: url(../img/professional/zhiyuantianbao.jpg);
+}

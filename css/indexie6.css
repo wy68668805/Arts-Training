@@ -1,0 +1,424 @@
+#teach-achieve{
+	width: 728px;
+	margin: 28px auto 0 auto;
+	background: #b0cfe3;
+	height: 34px;
+	position: relative;
+	
+}
+
+.t-tag img{
+	float:left;
+}
+
+
+
+.more{
+	position:absolute;
+	font-family: "Microsoft YaHei";
+	font-size: 16px;
+	color: #ffffff;
+	top: 8px;
+	left:672px;
+	width:100px;
+}
+
+
+
+.ta-full{
+	margin-top: 14px;
+	margin-left: 20px;
+	/*height: 200px;*/
+}
+
+
+.ta-list{
+	float: left;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+.yurendu {
+	width:236px;
+	height:151px;
+	position:relative;
+	float: left;
+	margin-right: 10px;
+}
+
+.text {
+	width:236px;
+	height:auto;
+	background-color:#000;
+	FILTER:alpha(opacity=60);
+	opacity:0.7;
+	-moz-opacity:0.7;
+	position:absolute;
+	left:0px;
+	bottom:0px;
+}
+
+.imgbt {
+	width:280px;
+	height:30px;
+	padding:0px 10px;
+}
+
+.imgbt span {
+	display:block;
+}
+
+.span_a {
+	width:210px;
+	line-height:30px;
+	float:left;
+	font-size:14px;
+	color:#FF3366;
+	padding-right:10px;
+}
+.span_b {
+	width:60px;
+	line-height:30px;
+	float:left;
+	font-size:16px;
+	color:#FF3366;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align:right;
+}
+.imgtext {
+	width:216px;
+	height:50px;
+	float:left;
+	padding:10px;
+	color:#fff;
+	font-size:12px;
+	line-height:200%;
+}
+
+
+/********************************         半透明       **************************/
+
+.ta-info{
+	margin-top: -5px;
+	background: white;
+	height: 30px;
+
+}
+
+.ta-logo{
+	position: absolute;
+	top: 154px;
+	left:4px;
+	vertical-align: middle;
+}
+
+.ta-name{
+	position: absolute;
+	line-height: 30px;
+	left:36px;
+	font-size: 12px;
+	font-family: "Microsoft Yahei";
+}
+
+.ta-menu{
+	margin-left: 176px;
+	margin-top: 8px;
+	vertical-align: middle;
+}
+
+.ta-music{
+	position: absolute;
+	left: 197px;
+	line-height: 30px;
+	font-size:12px;
+	font-family: "Microsoft Yahei";
+}
+
+
+
+/*师资力量 beginning */
+#teach-power {
+	position:relative;
+	clear: both;
+	width: 728px;
+	margin: 0 auto;
+	background: #b0cfe3;
+	height: 34px;
+}
+
+#teacher {
+	margin-top: 15px;
+	margin-left: 20px;
+	height: 220px;
+}
+.single-teacher {
+	width: 175px;
+	height: 190px;
+	margin-right:9px;
+	float: left;
+}
+
+.st-info {
+	margin-top: -5px;
+	background: #fff;
+	height: 48px;
+}
+
+.st-info p {
+	color: #000;
+	font-size: 14px;
+	padding-top: 7px;
+	text-align: center;
+	font-family: "Microsoft Yahei";
+}
+
+.st-info  span {
+	font-size: 14px;
+	display: block;
+	color: #77777a;
+	text-align: center;
+	font-family: "Microsoft Yahei";
+}
+/*师资力量 ending*/
+
+/*视频 项目 登录*/
+#vedio-list-login{
+	margin-left: 20px;
+}
+
+#vedio{
+	width: 236px;
+	float:left;
+	position: relative;
+}
+
+#vedio-tag{
+	position: absolute;
+	z-index: 999;
+}
+
+#list{
+	width: 298px;
+	/*border: 1px solid red;*/
+	margin-left: 10px;
+	float: left;
+	height: 182px;
+}
+
+#list-tag{
+	background: #ffe699;
+	height: 25px;
+}
+
+#list-list{
+	background: #fff;
+	height: 156px;
+}
+
+#list-list ul{
+	margin-left: 12px;
+}
+
+#list-list ul li{
+	list-style: none;
+	font-size: 14px;
+	font-family: "Microsoft Yahei";
+	line-height: 24px;
+}
+
+#login{
+	width: 175px;
+	margin-left: 10px;
+	float: left;
+	height: 182px;
+	border: 1px solid #fc991a;
+	position: relative;
+	background: #fff;
+}
+
+#login-tag{
+	background: #fc991a;
+	height: 25px;
+	line-height: 25px;
+	color: white;
+	padding-left: 7px;
+	font-size: 14px;
+	font-weight: 900px;
+	font-family: "Microsoft Yahei";
+	
+}
+
+#login-top{
+	position: absolute;
+	top: 25px;
+	left: 13px;
+}
+
+#username{
+	background: #616266;
+	color:#a9aaad;
+	height: 28px;
+	position: absolute;
+	left: 16px;
+	top:45px;
+	text-indent: 1em;
+}
+
+#password{
+	background: #616266;
+	color:#a9aaad;
+	height: 28px;
+	position: absolute;
+	left: 16px;
+	top:85px;
+	text-indent: 1em;
+}
+
+#is_rem{
+	/*font-size: 14px;*/
+	position: absolute;
+	top: 125px;
+	left: 19px;
+	vertical-align: middle;
+}
+
+#remember{
+	position: absolute;
+	top: 125px;
+	left: 35px;
+	font-size: 12px;
+}
+
+#forget{
+	position: absolute;
+	top: 125px;
+	left: 105px;
+	font-size: 12px;
+}
+
+
+#member_login{
+	position:absolute;
+	top: 150px;
+	left: 18px;
+	background: url(../img/login.jpg);
+	width: 60px;
+	height: 27px;
+}
+
+#member_reg{
+	position:absolute;
+	left: 250px;
+	top: 150px;
+	left: 95px;
+	width:60px;
+	height: 27px;
+	background: url(../img/register.jpg);
+}
+/*视频 项目 登录*/
+
+/*优势 简介 在线咨询*/
+#advantage-introduction-consultation{
+	clear: both;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 768px;
+	/*height: 500px;*/
+	
+}
+
+#advantage{
+	width:236px;
+	float: left;
+	background: #fff;
+	height: 121px;
+}
+
+#advantage ul{
+	margin-top: 8px;
+	margin-left: 12px;
+}
+
+#advantage ul li{
+	list-style: none;
+	height: 26px;
+}
+
+#advantage ul li a{
+	color: #000000;
+	list-style: none;
+	font-size: 15px;
+	font-family: "Microsoft Yahei";
+}
+
+#introduction{
+	margin-left:10px;
+	float: left;
+	width: 298px;
+	height: 121px;
+	background: #FFFFFF;
+	/*border: 1px solid red;*/
+}
+
+#intro_tag{
+	background: #ffe699;
+	height: 25px;
+}
+
+#introduction p {
+	margin: 10px 18px 10px 18px;
+	font-size: 14px;
+	font-family: "Microsoft Yahei";
+	line-height: 24px;
+}
+
+
+#consultation{
+	position: relative;
+	width: 175px;
+	float: left;
+	margin-left: 10px;
+	height: 121px;
+	background: #ffffff;
+	border: 1px solid #ffc000;
+}
+
+#consultation-top{
+	position: absolute;
+	top: 25px;
+	left: 13px;
+}
+
+#consultation-tag{
+	background: #fc991a;
+	height: 25px;
+	line-height: 25px;
+	color: white;
+	padding-left: 7px;
+	font-size: 14px;
+	font-weight: 900px;
+	font-family: "Microsoft Yahei";
+}
+
+#consultation ul{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#consultation ul li{
+	list-style:none;
+	height: 28px;
+}
+#consultation ul li a{
+	font-size:14px;
+	color: #000000;
+}
+
+#consultation ul li a img{
+	vertical-align: middle;
+}
+/*优势 简介 在线咨询*/
