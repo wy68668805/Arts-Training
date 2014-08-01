@@ -1,0 +1,97 @@
+.chongzhi{
+	width: 768px;
+	/*border: 1px solid red;*/
+	background: #f1f1f1;
+	padding-top: 30px;
+}
+
+.cz{
+	padding-top:60px;
+	background: url(../img/chongzhixiaofei/cz_bg.jpg) no-repeat;
+	width: 601px;
+	margin: 0 auto;
+	height: 500px;
+}
+
+.cz_form{
+	margin-left:145px;
+}
+
+.long_input{
+	background: url(../img/chongzhixiaofei/input_long_bg.jpg) no-repeat;
+	width: 295px;
+	height: 39px;
+	padding: 0 0 0 15px;
+	margin-bottom: 10px;
+}
+
+.short_input{
+	background: url(../img/chongzhixiaofei/input_short_bg.jpg) no-repeat;
+	width: 153px;
+	height: 36px;
+	padding: 0 0 0 15px;
+}
+
+.action{
+	margin-bottom: 10px;
+}
+
+.remember_pass{
+	margin-left:10px;
+}
+
+.forget_pass{
+	float: right;
+	margin-right: 206px;
+}
+
+.yzmaction{
+	margin-bottom: 10px;
+}
+
+.yzm{
+	float: right;
+	margin-right: 166px;
+}
+
+.yzm2action{
+	/*border: 1px solid red;*/
+	margin-bottom: 10px;
+}
+
+.yzm2action a{
+	/*border: 1px solid red;*/
+	float: right;
+	margin-right: 176px;
+}
+
+.lijichongzhi a{
+	display: block;
+	width: 105px;
+	height: 43px;
+	line-height: 43px;
+	background: #00b4bb;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 16px;
+	color: #fff;
+	margin-left:185px;
+	margin-bottom: 16px;
+}
+
+.dingqichongzhi a{
+		display: block;
+	width: 105px;
+	height: 43px;
+	line-height: 43px;
+	background: #00b4bb;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 16px;
+	color: #fff;
+	margin-left:185px;
+}
+.error{
+	color: #fc2425;
+	font-size: 16px;
+}
