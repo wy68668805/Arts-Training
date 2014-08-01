@@ -45,6 +45,10 @@
 	margin-right: 206px;
 }
 
+.forget_pass a{
+	color:  #2b94d6;
+}
+
 .yzmaction{
 	margin-bottom: 10px;
 }
@@ -52,6 +56,7 @@
 .yzm{
 	float: right;
 	margin-right: 166px;
+
 }
 
 .yzm2action{
@@ -63,6 +68,7 @@
 	/*border: 1px solid red;*/
 	float: right;
 	margin-right: 176px;
+	color: #2b94d6;
 }
 
 .lijichongzhi a{
